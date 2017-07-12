@@ -1,2 +1,2 @@
 # RebolicoCE
-Aplicação Web voltada para divulgação de eventos no estado do Ceará
+Aplicação Web, desenvolvida em Rails, voltada para divulgação de eventos no estado do Ceará.
